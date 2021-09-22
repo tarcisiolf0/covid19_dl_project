@@ -32,7 +32,7 @@ Requisitos adicionais para gerar o *dataset*:
 - Jupyter
 
 ### Executando
-Para maiores detalhes de como instalar os requisitos necessários, para gerar o dataset, 
+Para maiores detalhes de como instalar os requisitos necessários, para gerar o dataset, baixar os modelos pré-treinados
 para fazer o treino, validação e inferência da COVIDNet, basta ler o README do repositório <https://github.com/lindawangg/COVID-Net>.
 
 O projeto foi desenvolvido utilizando o Spyder e o Jupyter Notebook.
